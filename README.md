@@ -1,6 +1,8 @@
 ## Numpy To CNN
 
 > chan 2020/10/08
+>
+> 参考 [yizt](https://github.com/yizt/numpy_neural_network)
 
 主要内容：
 
